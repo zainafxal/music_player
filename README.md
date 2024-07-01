@@ -17,9 +17,9 @@ A stunning Flutter-based Music Player application. This app allows users to play
 - **Player Controls**: Play, pause, seek, and skip songs.
 
 ## Screenshots
-![Song Page](screenshots/ss1.jpg)
-![Song Page Dark Mode](ss2.jpg)
-![Home Page](screenshots/ss3.jpg)
+<img src="screenshots/ss1.jpg" alt="Song Page" width="300">
+<img src="screenshots/ss2.jpg" alt="Song Page Dark Mode" width="300">
+<img src="screenshots/ss3.jpg" alt="Home Page" width="300">
 
 ## Installation
 1. **Clone the repository**:
